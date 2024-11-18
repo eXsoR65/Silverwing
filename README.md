@@ -1,9 +1,15 @@
 # Silverwing &nbsp; [![bluebuild build badge](https://github.com/exsor65/silverwing/actions/workflows/build.yml/badge.svg)](https://github.com/exsor65/silverwing/actions/workflows/build.yml)
 
-## Silverwing is a variation of [Waybue](https://github.com/wayblueorg/wayblue) Hyprland image with my own changes like adding KVM to run a VM localolly. (Will add a list of changes soon). 
+__Silverwing__ is a variation of [Waybue](https://github.com/wayblueorg/wayblue) Hyprland Fedora Atomic OS with my own changes like adding KVM with Virt-Manager to run tradisional VM's. 
 
-### If you want to learn about creating your own variation using BlueBuild see below.  
-See the [BlueBuild docs](https://blue-build.org/how-to/setup/) for quick setup instructions for setting up your own repository based on this template.
+To-do list:
+  - [ ] Add document all changes found in Silverwing. 
+
+<br>
+
+*If you want to learn about creating your own variation using BlueBuild template like I did, 
+see the [BlueBuild docs](https://blue-build.org/how-to/setup/) for instructions.*
+
 
 ## Installation
 

@@ -1,8 +1,9 @@
 # Silverwing &nbsp; [![bluebuild build badge](https://github.com/exsor65/silverwing/actions/workflows/build.yml/badge.svg)](https://github.com/exsor65/silverwing/actions/workflows/build.yml)
 
-See the [BlueBuild docs](https://blue-build.org/how-to/setup/) for quick setup instructions for setting up your own repository based on this template.
+## Silverwing is a variation of [Waybue](https://github.com/wayblueorg/wayblue) Hyprland image with my own changes like adding KVM to run a VM localolly. (Will add a list of changes soon). 
 
-After setup, it is recommended you update this README to describe your custom image.
+### If you want to learn about creating your own variation using BlueBuild see below.  
+See the [BlueBuild docs](https://blue-build.org/how-to/setup/) for quick setup instructions for setting up your own repository based on this template.
 
 ## Installation
 

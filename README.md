@@ -9,7 +9,7 @@ __Silverwing__ is a spin of [Wayblue](https://github.com/wayblueorg/wayblue) Hyp
   - [ ] Document all changes in Silverwing compared to Wayblue Hyprland. 
 
 
-##### *If you want to learn about creating your own variation using BlueBuild template like I did, see the [BlueBuild docs](https://blue-build.org/how-to/setup/) for instructions.*
+##### *If you want to learn about creating your own spin using BlueBuild template like I did, see the [BlueBuild docs](https://blue-build.org/how-to/setup/) for instructions.*
 
 
 ## Installation

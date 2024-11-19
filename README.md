@@ -1,6 +1,6 @@
 # Silverwing &nbsp; [![bluebuild build badge](https://github.com/exsor65/silverwing/actions/workflows/build.yml/badge.svg)](https://github.com/exsor65/silverwing/actions/workflows/build.yml)
 
-__Silverwing__ is a variation of [Waybue](https://github.com/wayblueorg/wayblue) Hyprland Fedora Atomic OS with my own changes like adding KVM with Virt-Manager to run tradisional VM's. 
+__Silverwing__ is a variation of [Wayblue](https://github.com/wayblueorg/wayblue) Hyprland Fedora Atomic OS with my own changes like adding KVM with Virt-Manager to run tradisional VM's. 
 
 To-do list:
   - [ ] Add document all changes found in Silverwing. 

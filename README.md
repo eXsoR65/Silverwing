@@ -2,7 +2,7 @@
 
 __Silverwing__ is a variation of [Wayblue](https://github.com/wayblueorg/wayblue) Hyprland Fedora Atomic OS with my own changes like adding KVM with Virt-Manager to run tradisional VM's. 
 
-> I highly recommend you check out [Wayblue](https://github.com/wayblueorg/wayblue) and if you have questions join Wayblue [Discord](https://discord.gg/86fM55XfEq)
+> I highly recommend you check out [Wayblue](https://github.com/wayblueorg/wayblue) and if you have questions join the Wayblue [Discord](https://discord.gg/86fM55XfEq)
 
 
 ## To-do list:

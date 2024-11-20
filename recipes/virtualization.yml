@@ -9,7 +9,6 @@ modules:
       - virt-manager
       - virt-viewer
       - guestfs-tools
-      - python3-libguestfs
       - virt-top
   - type: systemd
     system:

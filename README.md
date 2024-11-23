@@ -1,5 +1,7 @@
 # Silverwing &nbsp; [![bluebuild build badge](https://github.com/exsor65/silverwing/actions/workflows/build.yml/badge.svg)](https://github.com/exsor65/silverwing/actions/workflows/build.yml)
 
+![Static Badge](https://img.shields.io/badge/Fedora-white?style=flat&logo=fedora&logoColor=51A2DA) ![Static Badge](https://img.shields.io/badge/Hyprland-white?style=flat&logo=hyprland&logoColor=58E1FF) 
+
 __Silverwing__ is a spin of [Wayblue](https://github.com/wayblueorg/wayblue) Hyprland Fedora Atomic OS with my own changes, such as adding KVM with Virt-Manager to run tradisional VM's. 
 
 > I highly recommend you check out [Wayblue](https://github.com/wayblueorg/wayblue) and if you have questions join the Wayblue [Discord](https://discord.gg/86fM55XfEq)

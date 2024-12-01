@@ -11,4 +11,5 @@ modules:
   - from-file: default-files.yml
   - from-file: virtualization.yml # libvert and virt-manager
   - from-file: additional-packages.yml # Packages like Fish Shell and other I use. 
+  - from-file: flatpaks.yml # Flapak packages I use.
   - type: signing # this sets up the proper policy & signing files for signed images to work fully

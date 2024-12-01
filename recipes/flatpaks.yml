@@ -1,0 +1,15 @@
+modules:
+  - type: default-flatpaks
+    notify: true
+    system:
+      install:
+        - com.github.tchx84.Flatseal
+        - com.brave.Browser
+        - io.github.dvlv.boxbuddyrs
+        - com.discordapp.Discord
+        - com.slack.Slack
+        - com.spotify.Client
+        - io.podman_desktop.PodmanDesktop
+        - org.gimp.GIMP
+        - org.libreoffice.LibreOffice
+        - org.videolan.VLC

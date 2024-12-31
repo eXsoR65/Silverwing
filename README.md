@@ -4,7 +4,8 @@
 
 __Silverwing__ is a spin of [Wayblue](https://github.com/wayblueorg/wayblue) Hyprland Fedora Atomic OS with my own changes, such as adding KVM with Virt-Manager to run tradisional VM's. 
 
-> I highly recommend you check out [Wayblue](https://github.com/wayblueorg/wayblue) and if you have questions join the Wayblue [Discord](https://discord.gg/86fM55XfEq)
+>[!NOTE]
+>I highly recommend you check out [Wayblue](https://github.com/wayblueorg/wayblue) and if you have questions join the Wayblue [Discord](https://discord.gg/86fM55XfEq)
 
 
 ## To-do list:
@@ -16,8 +17,8 @@ __Silverwing__ is a spin of [Wayblue](https://github.com/wayblueorg/wayblue) Hyp
 
 ## Installation
 
-> **Warning**  
-> [This is an experimental feature](https://www.fedoraproject.org/wiki/Changes/OstreeNativeContainerStable), try at your own discretion.
+>[!Warning]  
+>[This is an experimental feature](https://www.fedoraproject.org/wiki/Changes/OstreeNativeContainerStable), try at your own discretion.
 
 To rebase an existing atomic Fedora installation to the latest build:
 

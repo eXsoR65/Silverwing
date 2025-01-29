@@ -1,4 +1,4 @@
-# Silverwing &nbsp; [![bluebuild build badge](https://github.com/exsor65/silverwing/actions/workflows/build.yml/badge.svg)](https://github.com/exsor65/silverwing/actions/workflows/build.yml)
+xxxxxxx# Silverwing &nbsp; [![bluebuild build badge](https://github.com/exsor65/silverwing/actions/workflows/build.yml/badge.svg)](https://github.com/exsor65/silverwing/actions/workflows/build.yml)
 
 ![Static Badge](https://img.shields.io/badge/Fedora-white?style=flat&logo=fedora&logoColor=51A2DA) ![Static Badge](https://img.shields.io/badge/Hyprland-white?style=flat&logo=hyprland&logoColor=58E1FF) 
 
@@ -43,7 +43,7 @@ The `latest` tag will automatically point to the latest build. That build will s
 
 ## ISO
 
-If build on Fedora Atomic, you can generate an offline ISO with the instructions available [here](https://blue-build.org/learn/universal-blue/#fresh-install-from-an-iso). These ISOs cannot unfortunately be distributed on GitHub for free due to large sizes, so for public projects something else has to be used for hosting.
+If build on Fedora Atomic, you can generate an offline ISO with the instructions available [here](https://blue-build.org/how-to/generate-iso/). These ISOs cannot unfortunately be distributed on GitHub for free due to large sizes, so for public projects something else has to be used for hosting.
 
 ## Verification
 

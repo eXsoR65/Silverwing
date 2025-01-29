@@ -1,4 +1,4 @@
-xxxxxxx# Silverwing &nbsp; [![bluebuild build badge](https://github.com/exsor65/silverwing/actions/workflows/build.yml/badge.svg)](https://github.com/exsor65/silverwing/actions/workflows/build.yml)
+# Silverwing &nbsp; [![bluebuild build badge](https://github.com/exsor65/silverwing/actions/workflows/build.yml/badge.svg)](https://github.com/exsor65/silverwing/actions/workflows/build.yml)
 
 ![Static Badge](https://img.shields.io/badge/Fedora-white?style=flat&logo=fedora&logoColor=51A2DA) ![Static Badge](https://img.shields.io/badge/Hyprland-white?style=flat&logo=hyprland&logoColor=58E1FF) 
 

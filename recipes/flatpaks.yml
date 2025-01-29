@@ -4,12 +4,15 @@ modules:
     system:
       install:
         - com.github.tchx84.Flatseal
+        - io.github.flattool.Warehouse
         - com.brave.Browser
+        - com.google.Chrome
         - io.github.dvlv.boxbuddyrs
         - com.discordapp.Discord
-        - com.slack.Slack
         - com.spotify.Client
         - io.podman_desktop.PodmanDesktop
         - org.gimp.GIMP
         - org.libreoffice.LibreOffice
         - org.videolan.VLC
+        - com.bitwarden.desktop
+        - md.obsidian.Obsidian

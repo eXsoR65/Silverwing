@@ -1,7 +1,8 @@
 modules:
   - type: default-flatpaks
-    notify: true
-    system:
+    configurations:
+      - notify: false
+      scope: system
       install:
         - com.github.tchx84.Flatseal
         - io.github.flattool.Warehouse

@@ -1,4 +1,4 @@
-type: default-flatpaks
+- type: default-flatpaks
   configurations:
   - notify: false
     scope: system

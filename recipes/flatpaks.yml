@@ -1,10 +1,6 @@
----
-# yaml-language-server: $schema=https://schema.blue-build.org/module-v1.json
-- type: default-flatpaks
-  configurations:
-  - notify: false
-    scope: system
-    install:
+type: default-flatpaks
+configurations:
+  - install:
       - com.github.tchx84.Flatseal
       - io.github.flattool.Warehouse
       - com.brave.Browser

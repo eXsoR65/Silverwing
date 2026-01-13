@@ -1,5 +1,5 @@
 # image will be published to ghcr.io/<user>/<name>
-name: Silverwing
+name: silverwing
 # description will be included in the image's metadata
 description: My spin of Wayblue Hyprland. 
 
